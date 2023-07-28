@@ -1,0 +1,2 @@
+# Hikaye
+Learn Git
